@@ -12,7 +12,7 @@ A high-concurrency mixed OLTP benchmark that models typical social-network opera
 - **Isolation:** READ COMMITTED  
 - **Final State:** EXIT  
 
-**BenchBase changes:** The original benchmark was modified **only for OceanBase** in the DDL scripts; **HikariCP** and the **official OceanBase JDBC driver** were used. Other DBMS runs were left unchanged.  
+**BenchBase changes:** **HikariCP** was used for all DBMS runs. In addition, the benchmark was modified for **OceanBase** in the DDL scripts and the **official OceanBase JDBC driver** was used. Other DBMS runs were left unchanged.  
 Repo: https://github.com/Constantine-SRV/benchbase
 
 ## Short result
