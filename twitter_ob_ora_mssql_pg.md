@@ -33,7 +33,7 @@ OceanBase demonstrates not only efficient handling of **4,000 sessions** (simila
 | Average Latency | 70.01 ms | 108.47 ms | 416.05 ms | 440.38 ms |
 
 ## Charts
-<img src="image/Twitter-lat.png" width="400"> <img src="image/Twitter-req.png" width="400">
+<img src="files/twitter_throughput.png" width="400"> <img src="files/twitter_latency.png" width="400">
 
 ## Key takeaways
 🟩 **1) OceanBase leads in throughput**  
