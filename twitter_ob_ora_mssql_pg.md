@@ -13,6 +13,7 @@ A high-concurrency mixed OLTP benchmark that models typical social-network opera
 - **Final State:** EXIT  
 
 **BenchBase changes:** HikariCP was used for all DBMS runs. In addition, the OceanBase DDL scripts were modified to introduce partitioning for load distribution, and the official OceanBase JDBC driver was used. Other DBMS runs were left unchanged.
+Repo: https://github.com/Constantine-SRV/benchbase
 
 ## Short result
 OceanBase demonstrates not only efficient handling of **4,000 sessions** (similar to SQL Server) thanks to a modern **thread-based connection processing model**, but also the ability to **distribute load across cluster nodes**, making it the clear leader for **high-concurrency mixed OLTP workloads**.
