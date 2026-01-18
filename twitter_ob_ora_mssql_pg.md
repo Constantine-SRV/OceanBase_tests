@@ -3,7 +3,7 @@
 A high-concurrency mixed OLTP benchmark that models typical social-network operations and heavily stresses connection handling, contention, and latency under thousands of parallel sessions.
 
 ## Test setup
-**Platforms:** OceanBase (3-node cluster), PostgreSQL 17 (synchronous cluster), Oracle 19c Active Data Guard (ADG), SQL Server 2022 (standalone)  
+**Platforms:** OceanBase (3-node cluster), PostgreSQL 17 (synchronous cluster), Oracle 19c (ADG), SQL Server 2022 (standalone)  
 **Hardware (all servers):** 16 vCPU, 128 GB RAM, SAN storage
 
 - **Scale factor:** 80,000  
