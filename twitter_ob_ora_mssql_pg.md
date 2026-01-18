@@ -54,4 +54,4 @@ OceanBase demonstrates not only efficient handling of **4,000 sessions** (simila
 
 🟥 **5) Max latency**  
 - OB max ≈ **124 s** — rare outliers; the others are much lower (SQL ≈ **21.5 s**, PG ≈ **41.8 s**, Oracle ≈ **4.6 s**).
-<img src="image/Twitter-lat.png" width="700">
+<img src="image/Twitter-lat.png" width="400"> <img src="image/Twitter-req.png" width="400">
