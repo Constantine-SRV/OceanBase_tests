@@ -63,3 +63,5 @@ OceanBase demonstrates not only efficient handling of **4,000 sessions** (simila
 - [Oracle ZIP](files/ora_twitter_80K_4K_nopart_2025-12-04_18-35-40.zip)
 - [MSSQL ZIP](files/MSSQL_twitter_80K_4K_1h_2025-12-23_12-28-54.zip)
 - [PostgreSQL ZIP](files/pg_twitter_80K_4K_1h_2025-12-01_23-16-04.zip)
+
+**Disclaimer:** This report contains independent lab benchmark results produced for technical discussion. It is **not** an official performance claim, certification, or vendor-endorsed publication. Results apply only to the specific hardware/software/configuration described and may not generalize. Use at your own risk; no warranties are provided. All trademarks are the property of their respective owners. If you benchmark proprietary software, ensure your usage and any publication of results complies with the applicable license terms.
